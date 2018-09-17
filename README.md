@@ -7,3 +7,6 @@ Tool for matching chrisitan songs with daily bible readings.
 
 Comments:
 - imports for now inside of blocks to increase readability
+
+
+Copyright 2018 by Piotr Grzesiak
