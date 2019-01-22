@@ -5,9 +5,6 @@
 General purpose: 
 Tool for matching chrisitan songs with daily bible readings.
 
-Comments:
-- imports for now inside of blocks to increase readability
-
 
 
 
