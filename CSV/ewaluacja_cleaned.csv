@@ -1,0 +1,495 @@
+dayID,date,title,title_tokenized,title_cleaned
+1,2018-12-20,Roraty,['roraty'],roraty
+1,2018-12-20,Archanioł Boży Gabriel,"['archanioł', 'boży', 'gabriel']",archanioł boży gabriel
+1,2018-12-20,Oto Pan Bóg przyjdzie,"['oto', 'pan', 'bóg', 'przyjdzie']",oto pan bóg przyjdzie
+1,2018-12-20,Chleb niebiański,"['chleb', 'niebiański']",chleb niebiański
+1,2018-12-20,Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+1,2018-12-20,Wielbię Cię,"['wielbię', 'cię']",wielbię cię
+1,2018-12-20,Oczekuję Ciebie Panie,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+2,2018-12-19,Marana tha,"['marana', 'tha']",marana tha
+2,2018-12-19,Bo góry mogą ustąpić,"['bo', 'góry', 'mogą', 'ustąpić']",bo góry mogą ustąpić
+2,2018-12-19,Chrystus Pan karmi nas ,"['chrystus', 'pan', 'karmi', 'nas']",chrystus pan karmi nas
+2,2018-12-19,Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+2,2018-12-19,"Mój Jezu, mój Zbawco","['mój', 'jezu', 'mój', 'zbawco']",mój jezu mój zbawco
+3,2018-12-18,Roraty,['roraty'],roraty
+3,2018-12-18,Archanioł Boży Gabriel,"['archanioł', 'boży', 'gabriel']",archanioł boży gabriel
+3,2018-12-18,Za nami wstawiaj się Maryjo,"['za', 'nami', 'wstawiaj', 'się', 'maryjo']",za nami wstawiaj się maryjo
+3,2018-12-18,Emmanuel,['emmanuel'],emmanuel
+3,2018-12-18,Nie mądrość świata tego (Marana Tha Niemagotu),"['nie', 'mądrość', 'świata', 'tego', 'marana', 'tha', 'niemagotu']",nie mądrość świata tego marana tha niemagotu
+3,2018-12-18,Mario czy już wiesz,"['mario', 'czy', 'już', 'wiesz']",mario czy już wiesz
+4,2018-12-16,Roraty,['roraty'],roraty
+4,2018-12-16,Cała Ziemio wołaj,"['cała', 'ziemio', 'wołaj']",cała ziemio wołaj
+4,2018-12-16,Pan blisko jest ,"['pan', 'blisko', 'jest']",pan blisko jest
+4,2018-12-16,Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+4,2018-12-16,Oto Pan Bóg przyjdzie,"['oto', 'pan', 'bóg', 'przyjdzie']",oto pan bóg przyjdzie
+4,2018-12-16,Chwalcie Pana Niebios,"['chwalcie', 'pana', 'niebios']",chwalcie pana niebios
+4,2018-12-16,Archanioł Boży Gabriel,"['archanioł', 'boży', 'gabriel']",archanioł boży gabriel
+4,2018-12-16,Zdrowaś bądź Maryja,"['zdrowaś', 'bądź', 'maryja']",zdrowaś bądź maryja
+5,2018-12-13,Roraty,['roraty'],roraty
+5,2018-12-13,Radujcie się,"['radujcie', 'się']",radujcie się
+5,2018-12-13,W swoim wielkim (Pieśń o nadziei),"['w', 'swoim', 'wielkim', 'pieśń', 'o', 'nadziei']",w swoim wielkim pieśń o nadziei
+5,2018-12-13,Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+5,2018-12-13,"Boże mój, Boże szukam Ciebie","['boże', 'mój', 'boże', 'szukam', 'ciebie']",boże mój boże szukam ciebie
+5,2018-12-13,Chwała Ojcu,"['chwała', 'ojcu']",chwała ojcu
+5,2018-12-13,Wielbię Cię,"['wielbię', 'cię']",wielbię cię
+6,2018-12-12,Roraty,['roraty'],roraty
+6,2018-12-12,W naszych ciemnościach,"['w', 'naszych', 'ciemnościach']",w naszych ciemnościach
+6,2018-12-12,"O Jezu, cichy i pokorny","['o', 'jezu', 'cichy', 'i', 'pokorny']",o jezu cichy i pokorny
+6,2018-12-12,Hymn Etiopski (Chleb niebiański),"['hymn', 'etiopski', 'chleb', 'niebiański']",hymn etiopski chleb niebiański
+6,2018-12-12,Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+6,2018-12-12,Niepojęty,['niepojęty'],niepojęty
+6,2018-12-12,Ukaż mi Panie swą twarz,"['ukaż', 'mi', 'panie', 'swą', 'twarz']",ukaż mi panie swą twarz
+7,2018-12-11,Roraty,['roraty'],roraty
+7,2018-12-11,"Pan blisko jest, oczekuj Go","['pan', 'blisko', 'jest', 'oczekuj', 'go']",pan blisko jest oczekuj go
+7,2018-12-11,Mój Pan mocą moja jest,"['mój', 'pan', 'mocą', 'moja', 'jest']",mój pan mocą moja jest
+7,2018-12-11,Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+7,2018-12-11,To On nasz Pan i Król,"['to', 'on', 'nasz', 'pan', 'i', 'król']",to on nasz pan i król
+7,2018-12-11,"Przyjdź Jezu, przyjdź","['przyjdź', 'jezu', 'przyjdź']",przyjdź jezu przyjdź
+7,2018-12-11,Jak dobrze jest dziękować Ci,"['jak', 'dobrze', 'jest', 'dziękować', 'ci']",jak dobrze jest dziękować ci
+8,2018-12-10,Roraty,['roraty'],roraty
+8,2018-12-10,Przywołaj mnie Panie (mów do mego serca),"['przywołaj', 'mnie', 'panie', 'mów', 'do', 'mego', 'serca']",przywołaj mnie panie mów do mego serca
+8,2018-12-10,Stoisz u naszych drzwi,"['stoisz', 'u', 'naszych', 'drzwi']",stoisz u naszych drzwi
+8,2018-12-10,Błogosławione jest Imię Twe,"['błogosławione', 'jest', 'imię', 'twe']",błogosławione jest imię twe
+8,2018-12-10,Mario czy już wiesz,"['mario', 'czy', 'już', 'wiesz']",mario czy już wiesz
+8,2018-12-10,Duszo ma Pana chwal,"['duszo', 'ma', 'pana', 'chwal']",duszo ma pana chwal
+9,2018-12-09,"Marana Tha, przyjdź Jezu Panie","['marana', 'tha', 'przyjdź', 'jezu', 'panie']",marana tha przyjdź jezu panie
+9,2018-12-09,"Blisko, blisko","['blisko', 'blisko']",blisko blisko
+9,2018-12-09,Bóg kiedyś stał się jednym z nas,"['bóg', 'kiedyś', 'stał', 'się', 'jednym', 'z', 'nas']",bóg kiedyś stał się jednym z nas
+9,2018-12-09,Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+9,2018-12-09,Pan wywyższony,"['pan', 'wywyższony']",pan wywyższony
+9,2018-12-09,Oczekuję Ciebie Panie,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+10,2018-12-06,Roraty,['roraty'],roraty
+10,2018-12-06,"Blisko, blisko","['blisko', 'blisko']",blisko blisko
+10,2018-12-06,Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+10,2018-12-06,Zbliżam się w pokorze,"['zbliżam', 'się', 'w', 'pokorze']",zbliżam się w pokorze
+10,2018-12-06,Błogosław Duszo moja Pana,"['błogosław', 'duszo', 'moja', 'pana']",błogosław duszo moja pana
+10,2018-12-06,Oczekuję Ciebie Panie,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+10,2018-12-06,"Niepojęty, niezmierzony ","['niepojęty', 'niezmierzony']",niepojęty niezmierzony
+11,2018-12-04,Roraty,['roraty'],roraty
+11,2018-12-04,"Przyjdź Jezu, przyjdź","['przyjdź', 'jezu', 'przyjdź']",przyjdź jezu przyjdź
+11,2018-12-04,Oto idzie mój Bóg,"['oto', 'idzie', 'mój', 'bóg']",oto idzie mój bóg
+11,2018-12-04,"Pan wywyższony, nasz Król","['pan', 'wywyższony', 'nasz', 'król']",pan wywyższony nasz król
+11,2018-12-04,Oto Pan Bóg przyjdzie,"['oto', 'pan', 'bóg', 'przyjdzie']",oto pan bóg przyjdzie
+12,2018-12-03,Roraty,['roraty'],roraty
+12,2018-12-03, Łaską jesteśmy zbawieni,"['łaską', 'jesteśmy', 'zbawieni']",łaską jesteśmy zbawieni
+12,2018-12-03,Chleb niebiański,"['chleb', 'niebiański']",chleb niebiański
+12,2018-12-03,Chwal Adonai,"['chwal', 'adonai']",chwal adonai
+12,2018-12-03,Marana Tha (przyjdź Panie przyjdź),"['marana', 'tha', 'przyjdź', 'panie', 'przyjdź']",marana tha przyjdź panie przyjdź
+13,2018-12-02,Święty nadchodzi święty,"['święty', 'nadchodzi', 'święty']",święty nadchodzi święty
+13,2018-12-02,Ubi caritas,"['ubi', 'caritas']",ubi caritas
+13,2018-12-02,Ciebie pragnie dusza moja,"['ciebie', 'pragnie', 'dusza', 'moja']",ciebie pragnie dusza moja
+13,2018-12-02,Dzielmy się wiarą jak chlebem ,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+13,2018-12-02,Uwielbiajcie Pana,"['uwielbiajcie', 'pana']",uwielbiajcie pana
+13,2018-12-02,Zbawca,['zbawca'],zbawca
+13,2018-12-02,Ukojenie,['ukojenie'],ukojenie
+14,2019-01-28,Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+14,2019-01-28,Święty 5x Pan,"['święty', 'x', 'pan']",święty x pan
+14,2019-01-28,Ukaż mi Panie swą twarz,"['ukaż', 'mi', 'panie', 'swą', 'twarz']",ukaż mi panie swą twarz
+14,2019-01-28,Aż sponad mórz i szczytów gór,"['aż', 'sponad', 'mórz', 'i', 'szczytów', 'gór']",aż sponad mórz i szczytów gór
+14,2019-01-28,Jezus siła ma,"['jezus', 'siła', 'ma']",jezus siła ma
+15,2019-01-27, wejdźmy do jego bram z uwielbieniem,"['wejdźmy', 'do', 'jego', 'bram', 'z', 'uwielbieniem']",wejdźmy do jego bram z uwielbieniem
+15,2019-01-27, Jest jedno ciało,"['jest', 'jedno', 'ciało']",jest jedno ciało
+15,2019-01-27, chlebie najcichszy,"['chlebie', 'najcichszy']",chlebie najcichszy
+15,2019-01-27, Kto spożywa,"['kto', 'spożywa']",kto spożywa
+15,2019-01-27, nasz Bóg jest wielki,"['nasz', 'bóg', 'jest', 'wielki']",nasz bóg jest wielki
+15,2019-01-27,Ty jesteś skałą zbawienia,"['ty', 'jesteś', 'skałą', 'zbawienia']",ty jesteś skałą zbawienia
+15,2019-01-27, jezu tys jest światłością,"['jezu', 'tys', 'jest', 'światłością']",jezu tys jest światłością
+16,2019-01-24, Przywołaj mnie Panie (mów do mego serca),"['przywołaj', 'mnie', 'panie', 'mów', 'do', 'mego', 'serca']",przywołaj mnie panie mów do mego serca
+16,2019-01-24, Panie mój przychodzę dziś,"['panie', 'mój', 'przychodzę', 'dziś']",panie mój przychodzę dziś
+16,2019-01-24, Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+16,2019-01-24, Dobry jest Pan,"['dobry', 'jest', 'pan']",dobry jest pan
+16,2019-01-24, Nasz Bóg jest wielki,"['nasz', 'bóg', 'jest', 'wielki']",nasz bóg jest wielki
+16,2019-01-24, Bóg się rodzi,"['bóg', 'się', 'rodzi']",bóg się rodzi
+16,2019-01-24, Przed tronem Twym stoimy,"['przed', 'tronem', 'twym', 'stoimy']",przed tronem twym stoimy
+17,2019-01-23, Pójdźmy wszyscy do stajenki,"['pójdźmy', 'wszyscy', 'do', 'stajenki']",pójdźmy wszyscy do stajenki
+17,2019-01-23, Tryumfy,['tryumfy'],tryumfy
+17,2019-01-23, Ty jesteś chlebem żywym,"['ty', 'jesteś', 'chlebem', 'żywym']",ty jesteś chlebem żywym
+17,2019-01-23, Będę śpiewał Ci,"['będę', 'śpiewał', 'ci']",będę śpiewał ci
+17,2019-01-23,Bóg nasz Pan,"['bóg', 'nasz', 'pan']",bóg nasz pan
+18,2019-01-20," Wzywam Cię, Duchu","['wzywam', 'cię', 'duchu']",wzywam cię duchu
+18,2019-01-20, Tylko w Twoim miłosierdziu,"['tylko', 'w', 'twoim', 'miłosierdziu']",tylko w twoim miłosierdziu
+18,2019-01-20, Na Komunię ( kto spożywa moje ciało),"['na', 'komunię', 'kto', 'spożywa', 'moje', 'ciało']",na komunię kto spożywa moje ciało
+18,2019-01-20, Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+18,2019-01-20, Każdy dzień upewnia mnie,"['każdy', 'dzień', 'upewnia', 'mnie']",każdy dzień upewnia mnie
+18,2019-01-20, O Pani Ufność nasza,"['o', 'pani', 'ufność', 'nasza']",o pani ufność nasza
+18,2019-01-20, Zanim powiem słowo,"['zanim', 'powiem', 'słowo']",zanim powiem słowo
+19,2019-01-17, Duchu Stworzycielu (modlitwa br.Rogera),"['duchu', 'stworzycielu', 'modlitwa', 'br', 'rogera']",duchu stworzycielu modlitwa br rogera
+19,2019-01-17,Dotknij Panie moich oczu,"['dotknij', 'panie', 'moich', 'oczu']",dotknij panie moich oczu
+19,2019-01-17,Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+19,2019-01-17,Chleb żywy,"['chleb', 'żywy']",chleb żywy
+19,2019-01-17, Zbawca,['zbawca'],zbawca
+19,2019-01-17, Pan wywyższony,"['pan', 'wywyższony']",pan wywyższony
+19,2019-01-17,Zaprowadź mnie tam,"['zaprowadź', 'mnie', 'tam']",zaprowadź mnie tam
+20,2019-01-16, jeden jest tylko Pan,"['jeden', 'jest', 'tylko', 'pan']",jeden jest tylko pan
+20,2019-01-16, Panie mój przychodzę dziś,"['panie', 'mój', 'przychodzę', 'dziś']",panie mój przychodzę dziś
+20,2019-01-16, Zbliżam się w pokorze,"['zbliżam', 'się', 'w', 'pokorze']",zbliżam się w pokorze
+20,2019-01-16, Będę wysławiał Pana w każdym czasie,"['będę', 'wysławiał', 'pana', 'w', 'każdym', 'czasie']",będę wysławiał pana w każdym czasie
+20,2019-01-16,Jesteś Królem,"['jesteś', 'królem']",jesteś królem
+21,2019-01-15, Pójdźmy wszyscy,"['pójdźmy', 'wszyscy']",pójdźmy wszyscy
+21,2019-01-15, Oczyść serce me,"['oczyść', 'serce', 'me']",oczyść serce me
+21,2019-01-15, Być bliżej Ciebie chcę,"['być', 'bliżej', 'ciebie', 'chcę']",być bliżej ciebie chcę
+21,2019-01-15, Błogosławione jest Imię Twe,"['błogosławione', 'jest', 'imię', 'twe']",błogosławione jest imię twe
+21,2019-01-15," Raduj się świecie, przyszedł Pan","['raduj', 'się', 'świecie', 'przyszedł', 'pan']",raduj się świecie przyszedł pan
+22,2019-01-13, Gdy śliczna Panna,"['gdy', 'śliczna', 'panna']",gdy śliczna panna
+22,2019-01-13," Do szopy, hej pasterze ","['do', 'szopy', 'hej', 'pasterze']",do szopy hej pasterze
+22,2019-01-13, Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+22,2019-01-13, Jezus Chrystus to Panów Pan,"['jezus', 'chrystus', 'to', 'panów', 'pan']",jezus chrystus to panów pan
+22,2019-01-13, Gdy się Chrystus rodzi,"['gdy', 'się', 'chrystus', 'rodzi']",gdy się chrystus rodzi
+23,2019-01-10, Wesołą nowinę,"['wesołą', 'nowinę']",wesołą nowinę
+23,2019-01-10, Cicha noc,"['cicha', 'noc']",cicha noc
+23,2019-01-10, Nad Betlejem w ciemną noc,"['nad', 'betlejem', 'w', 'ciemną', 'noc']",nad betlejem w ciemną noc
+23,2019-01-10, Pospieszcie o wierni,"['pospieszcie', 'o', 'wierni']",pospieszcie o wierni
+23,2019-01-10,Zbawca,['zbawca'],zbawca
+23,2019-01-10,Gdy się Chrystus rodzi,"['gdy', 'się', 'chrystus', 'rodzi']",gdy się chrystus rodzi
+23,2019-01-10, Jezus malusieńki,"['jezus', 'malusieńki']",jezus malusieńki
+23,2019-01-10," Do szopy, hej, pasterze","['do', 'szopy', 'hej', 'pasterze']",do szopy hej pasterze
+24,2019-01-09, Wśród nocnej ciszy,"['wśród', 'nocnej', 'ciszy']",wśród nocnej ciszy
+24,2019-01-09, Pan blisko jest,"['pan', 'blisko', 'jest']",pan blisko jest
+24,2019-01-09, Witaj Pokarmie,"['witaj', 'pokarmie']",witaj pokarmie
+24,2019-01-09, Cicha noc,"['cicha', 'noc']",cicha noc
+24,2019-01-09,"Święty Pan, Bóg i Król","['święty', 'pan', 'bóg', 'i', 'król']",święty pan bóg i król
+25,2019-01-08, Bóg się rodzi,"['bóg', 'się', 'rodzi']",bóg się rodzi
+25,2019-01-08, O gwiazdo Betlejemska,"['o', 'gwiazdo', 'betlejemska']",o gwiazdo betlejemska
+25,2019-01-08, Wśród nocnej ciszy,"['wśród', 'nocnej', 'ciszy']",wśród nocnej ciszy
+25,2019-01-08, Gdy śliczna panna,"['gdy', 'śliczna', 'panna']",gdy śliczna panna
+25,2019-01-08, Cicha noc,"['cicha', 'noc']",cicha noc
+26,2019-01-06, Mędrcy świata,"['mędrcy', 'świata']",mędrcy świata
+26,2019-01-06, O gwiazdo Betlejemska,"['o', 'gwiazdo', 'betlejemska']",o gwiazdo betlejemska
+26,2019-01-06, Gdy się Chrystus rodzi,"['gdy', 'się', 'chrystus', 'rodzi']",gdy się chrystus rodzi
+26,2019-01-06, Ach ubogi żłobie,"['ach', 'ubogi', 'żłobie']",ach ubogi żłobie
+26,2019-01-06, Pójdźmy wszyscy do stajenki,"['pójdźmy', 'wszyscy', 'do', 'stajenki']",pójdźmy wszyscy do stajenki
+26,2019-01-06, Tryumfy,['tryumfy'],tryumfy
+27,2019-01-03,"Do szopy, hej pasterze","['do', 'szopy', 'hej', 'pasterze']",do szopy hej pasterze
+27,2019-01-03, Cała ziemio wołaj,"['cała', 'ziemio', 'wołaj']",cała ziemio wołaj
+27,2019-01-03, Zbliżam się w pokorze,"['zbliżam', 'się', 'w', 'pokorze']",zbliżam się w pokorze
+27,2019-01-03,Dzisiaj w Betlejem,"['dzisiaj', 'w', 'betlejem']",dzisiaj w betlejem
+27,2019-01-03, Bóg się rodzi,"['bóg', 'się', 'rodzi']",bóg się rodzi
+27,2019-01-03,Ukaż mi Panie swą twarz,"['ukaż', 'mi', 'panie', 'swą', 'twarz']",ukaż mi panie swą twarz
+28,2019-01-29,Niechaj z nami będzie Pan,"['niechaj', 'z', 'nami', 'będzie', 'pan']",niechaj z nami będzie pan
+28,2019-01-29, Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+28,2019-01-29, Jeden Chleb,"['jeden', 'chleb']",jeden chleb
+28,2019-01-29, Chwal Adonai,"['chwal', 'adonai']",chwal adonai
+28,2019-01-29,Zabierzesz mnie na drugi brzeg,"['zabierzesz', 'mnie', 'na', 'drugi', 'brzeg']",zabierzesz mnie na drugi brzeg
+29,2019-01-30, Niechaj zstąpi Duch Twój,"['niechaj', 'zstąpi', 'duch', 'twój']",niechaj zstąpi duch twój
+29,2019-01-30, Niechaj miłość Twa,"['niechaj', 'miłość', 'twa']",niechaj miłość twa
+29,2019-01-30,Być bliżej Ciebie chcę,"['być', 'bliżej', 'ciebie', 'chcę']",być bliżej ciebie chcę
+29,2019-01-30,Nic nie musisz mówić nic,"['nic', 'nie', 'musisz', 'mówić', 'nic']",nic nie musisz mówić nic
+30,2019-02-03, przybądź Święty niepojęty,"['przybądź', 'święty', 'niepojęty']",przybądź święty niepojęty
+30,2019-02-03, niechaj miłość Twa,"['niechaj', 'miłość', 'twa']",niechaj miłość twa
+30,2019-02-03, Chrystus Pan karmi nas,"['chrystus', 'pan', 'karmi', 'nas']",chrystus pan karmi nas
+30,2019-02-03,Godzien o godzien,"['godzien', 'o', 'godzien']",godzien o godzien
+30,2019-02-03, Maryjo Matko mojego wezwania,"['maryjo', 'matko', 'mojego', 'wezwania']",maryjo matko mojego wezwania
+31,2019-02-05,"Lud Twój Panie, lud pielgrzymi","['lud', 'twój', 'panie', 'lud', 'pielgrzymi']",lud twój panie lud pielgrzymi
+31,2019-02-05,Miłość mnie ogarnęła,"['miłość', 'mnie', 'ogarnęła']",miłość mnie ogarnęła
+31,2019-02-05,Stoisz u naszych drzwi,"['stoisz', 'u', 'naszych', 'drzwi']",stoisz u naszych drzwi
+31,2019-02-05,"Jak dobrze jest dziękować Ci, Panie","['jak', 'dobrze', 'jest', 'dziękować', 'ci', 'panie']",jak dobrze jest dziękować ci panie
+31,2019-02-05,Oprócz Ciebie nikt Miriam,"['oprócz', 'ciebie', 'nikt', 'miriam']",oprócz ciebie nikt miriam
+32,2019-02-06, Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+32,2019-02-06,Ubi Caritas,"['ubi', 'caritas']",ubi caritas
+32,2019-02-06,Boże mój Boże szukam Ciebie,"['boże', 'mój', 'boże', 'szukam', 'ciebie']",boże mój boże szukam ciebie
+32,2019-02-06, Gdy klęczę przed Tobą,"['gdy', 'klęczę', 'przed', 'tobą']",gdy klęczę przed tobą
+32,2019-02-06,Pragnę śpiewać Ci,"['pragnę', 'śpiewać', 'ci']",pragnę śpiewać ci
+33,2019-02-07,Ciebie cała dusza pragnę,"['ciebie', 'cała', 'dusza', 'pragnę']",ciebie cała dusza pragnę
+33,2019-02-07,Otwórz me oczy o Panie ,"['otwórz', 'me', 'oczy', 'o', 'panie']",otwórz me oczy o panie
+33,2019-02-07,Twe imię jak miód,"['twe', 'imię', 'jak', 'miód']",twe imię jak miód
+33,2019-02-07, Skosztujcie I zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+33,2019-02-07, Chwal Adonai,"['chwal', 'adonai']",chwal adonai
+33,2019-02-07, Oddajmy cześć ,"['oddajmy', 'cześć']",oddajmy cześć
+34,2019-02-10,święty 5X,"['święty', 'x']",święty x
+34,2019-02-10,"Oto ja, Poślij mnie","['oto', 'ja', 'poślij', 'mnie']",oto ja poślij mnie
+34,2019-02-10,Chlebie najcichszy,"['chlebie', 'najcichszy']",chlebie najcichszy
+34,2019-02-10,Uwielbiam imię twoje Panie,"['uwielbiam', 'imię', 'twoje', 'panie']",uwielbiam imię twoje panie
+34,2019-02-10,Ty jesteś skałą zbawienia mego,"['ty', 'jesteś', 'skałą', 'zbawienia', 'mego']",ty jesteś skałą zbawienia mego
+34,2019-02-10,Zaufałem panu i już,"['zaufałem', 'panu', 'i', 'już']",zaufałem panu i już
+35,2019-02-12, Jezus najwyższe imię,"['jezus', 'najwyższe', 'imię']",jezus najwyższe imię
+35,2019-02-12, Do mnie wróć,"['do', 'mnie', 'wróć']",do mnie wróć
+35,2019-02-12, Ja wiem w kogo ja wierzę,"['ja', 'wiem', 'w', 'kogo', 'ja', 'wierzę']",ja wiem w kogo ja wierzę
+35,2019-02-12, Chwała Bogu Ojcu,"['chwała', 'bogu', 'ojcu']",chwała bogu ojcu
+35,2019-02-12,Gdy klęczę przed tobą,"['gdy', 'klęczę', 'przed', 'tobą']",gdy klęczę przed tobą
+36,2019-02-13, Maryjo Matko mojego wezwania,"['maryjo', 'matko', 'mojego', 'wezwania']",maryjo matko mojego wezwania
+36,2019-02-13, O Panie Ty nam dajesz,"['o', 'panie', 'ty', 'nam', 'dajesz']",o panie ty nam dajesz
+36,2019-02-13,Wodę zamieniłeś w wino,"['wodę', 'zamieniłeś', 'w', 'wino']",wodę zamieniłeś w wino
+36,2019-02-13,Jesteś Królem ,"['jesteś', 'królem']",jesteś królem
+37,2019-02-14, Wzywam Cię,"['wzywam', 'cię']",wzywam cię
+37,2019-02-14, Oto stoję u drzwi i kołaczę,"['oto', 'stoję', 'u', 'drzwi', 'i', 'kołaczę']",oto stoję u drzwi i kołaczę
+37,2019-02-14, Oto są baranki młode,"['oto', 'są', 'baranki', 'młode']",oto są baranki młode
+37,2019-02-14, Chwała Ojcu,"['chwała', 'ojcu']",chwała ojcu
+37,2019-02-14,Miłujcie się wzajemnie,"['miłujcie', 'się', 'wzajemnie']",miłujcie się wzajemnie
+37,2019-02-14," Niepojęty, niezmierzony","['niepojęty', 'niezmierzony']",niepojęty niezmierzony
+37,2019-02-14, Idź w pokoju,"['idź', 'w', 'pokoju']",idź w pokoju
+38,2019-02-17, Będę śpiewał Ci,"['będę', 'śpiewał', 'ci']",będę śpiewał ci
+38,2019-02-17, Panie mój przychodzę dziś,"['panie', 'mój', 'przychodzę', 'dziś']",panie mój przychodzę dziś
+38,2019-02-17, Boże mój Boże,"['boże', 'mój', 'boże']",boże mój boże
+38,2019-02-17, Będę śpiewał Tobie,"['będę', 'śpiewał', 'tobie']",będę śpiewał tobie
+38,2019-02-17, Jezus Chrystus moim Panem jest,"['jezus', 'chrystus', 'moim', 'panem', 'jest']",jezus chrystus moim panem jest
+38,2019-02-17,Boże Twa łaska,"['boże', 'twa', 'łaska']",boże twa łaska
+39,2019-02-18, Przywołaj mnie Panie,"['przywołaj', 'mnie', 'panie']",przywołaj mnie panie
+39,2019-02-18, Bo góry mogą ustąpić ,"['bo', 'góry', 'mogą', 'ustąpić']",bo góry mogą ustąpić
+39,2019-02-18, Ty jesteś chlebem żywym,"['ty', 'jesteś', 'chlebem', 'żywym']",ty jesteś chlebem żywym
+39,2019-02-18, Jak Dawid,"['jak', 'dawid']",jak dawid
+39,2019-02-18, Pan Cię uchroni ,"['pan', 'cię', 'uchroni']",pan cię uchroni
+40,2019-02-21, Oto są baranki młode,"['oto', 'są', 'baranki', 'młode']",oto są baranki młode
+40,2019-02-21," Ofiaruję Tobie, Panie mój","['ofiaruję', 'tobie', 'panie', 'mój']",ofiaruję tobie panie mój
+40,2019-02-21, Witaj Pokarmie,"['witaj', 'pokarmie']",witaj pokarmie
+40,2019-02-21, Ty światłość dnia,"['ty', 'światłość', 'dnia']",ty światłość dnia
+40,2019-02-21, Oczekuję Ciebie Panie,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+41,2019-02-24, Duchu Święty wołam przyjdź,"['duchu', 'święty', 'wołam', 'przyjdź']",duchu święty wołam przyjdź
+41,2019-02-24, Dotknij Panie moich oczu,"['dotknij', 'panie', 'moich', 'oczu']",dotknij panie moich oczu
+41,2019-02-24, Skosztujcie i zobaczcie ,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+41,2019-02-24, Ty światłość dnia,"['ty', 'światłość', 'dnia']",ty światłość dnia
+41,2019-02-24, Duszo ma Pana chwal,"['duszo', 'ma', 'pana', 'chwal']",duszo ma pana chwal
+41,2019-02-24, Zaprowadź mnie tam ,"['zaprowadź', 'mnie', 'tam']",zaprowadź mnie tam
+42,2019-02-25, przed tronem Twym,"['przed', 'tronem', 'twym']",przed tronem twym
+42,2019-02-25, ukaż mi Panie swą Twarz,"['ukaż', 'mi', 'panie', 'swą', 'twarz']",ukaż mi panie swą twarz
+42,2019-02-25, dotknij Panie moich oczu,"['dotknij', 'panie', 'moich', 'oczu']",dotknij panie moich oczu
+42,2019-02-25," Niepojęty, niezmierzony","['niepojęty', 'niezmierzony']",niepojęty niezmierzony
+42,2019-02-25, święte imię Jezus ,"['święte', 'imię', 'jezus']",święte imię jezus
+43,2019-02-26,Pokładam w Panu ufność swą,"['pokładam', 'w', 'panu', 'ufność', 'swą']",pokładam w panu ufność swą
+43,2019-02-26,"Jeden chleb, co zmienia się w Chrystusa Ciało","['jeden', 'chleb', 'co', 'zmienia', 'się', 'w', 'chrystusa', 'ciało']",jeden chleb co zmienia się w chrystusa ciało
+43,2019-02-26,Miłujcie się wzajemnie,"['miłujcie', 'się', 'wzajemnie']",miłujcie się wzajemnie
+43,2019-02-26,Pragnę śpiewać Ci najpiękniejszą pieśń,"['pragnę', 'śpiewać', 'ci', 'najpiękniejszą', 'pieśń']",pragnę śpiewać ci najpiękniejszą pieśń
+43,2019-02-26,Jak dobrze jest dziękować Ci,"['jak', 'dobrze', 'jest', 'dziękować', 'ci']",jak dobrze jest dziękować ci
+44,2019-02-27, Cześć Maryi,"['cześć', 'maryi']",cześć maryi
+44,2019-02-27, Panie dobry jak chleb,"['panie', 'dobry', 'jak', 'chleb']",panie dobry jak chleb
+44,2019-02-27, Bądź pochwalony,"['bądź', 'pochwalony']",bądź pochwalony
+44,2019-02-27,Wywyższony,['wywyższony'],wywyższony
+45,2019-02-28, Wzywam Cię,"['wzywam', 'cię']",wzywam cię
+45,2019-02-28,Oddajmy cześć,"['oddajmy', 'cześć']",oddajmy cześć
+45,2019-02-28, Nasz Bóg jest potężny w mocy swej,"['nasz', 'bóg', 'jest', 'potężny', 'w', 'mocy', 'swej']",nasz bóg jest potężny w mocy swej
+45,2019-02-28,Chlebie najcichszy,"['chlebie', 'najcichszy']",chlebie najcichszy
+45,2019-02-28, Hymn Etiopski (Chleb niebiański),"['hymn', 'etiopski', 'chleb', 'niebiański']",hymn etiopski chleb niebiański
+45,2019-02-28, Wody Jordanu,"['wody', 'jordanu']",wody jordanu
+45,2019-02-28, Bóg nasz Pan jest dobry cały czas,"['bóg', 'nasz', 'pan', 'jest', 'dobry', 'cały', 'czas']",bóg nasz pan jest dobry cały czas
+45,2019-02-28,Idź w pokoju,"['idź', 'w', 'pokoju']",idź w pokoju
+45,2019-02-28, Ukaż mi Panie swą twarz,"['ukaż', 'mi', 'panie', 'swą', 'twarz']",ukaż mi panie swą twarz
+46,2019-03-03, Wykrzykujcie na cześć Pana,"['wykrzykujcie', 'na', 'cześć', 'pana']",wykrzykujcie na cześć pana
+46,2019-03-03, Panie mój przychodzę dziś,"['panie', 'mój', 'przychodzę', 'dziś']",panie mój przychodzę dziś
+46,2019-03-03, Twoja miłość jak ciepły deszcz,"['twoja', 'miłość', 'jak', 'ciepły', 'deszcz']",twoja miłość jak ciepły deszcz
+46,2019-03-03, Dzięki Ci Panie za ciało Twe i krew,"['dzięki', 'ci', 'panie', 'za', 'ciało', 'twe', 'i', 'krew']",dzięki ci panie za ciało twe i krew
+46,2019-03-03, Zbawca,['zbawca'],zbawca
+46,2019-03-03, Chwała Ojcu i Synowi i Duchowi Św,"['chwała', 'ojcu', 'i', 'synowi', 'i', 'duchowi', 'św']",chwała ojcu i synowi i duchowi św
+46,2019-03-03,Jak dobrze jest dziękować Ci,"['jak', 'dobrze', 'jest', 'dziękować', 'ci']",jak dobrze jest dziękować ci
+47,2019-03-04," Boże mój, Boże szukam Ciebie ","['boże', 'mój', 'boże', 'szukam', 'ciebie']",boże mój boże szukam ciebie
+47,2019-03-04, O piękności nie stworzona,"['o', 'piękności', 'nie', 'stworzona']",o piękności nie stworzona
+47,2019-03-04, Nie zabraknie mi nigdy chleba,"['nie', 'zabraknie', 'mi', 'nigdy', 'chleba']",nie zabraknie mi nigdy chleba
+47,2019-03-04, Chrystus Pan Boży Syn,"['chrystus', 'pan', 'boży', 'syn']",chrystus pan boży syn
+47,2019-03-04," Zbawiciel, On porusza góry ","['zbawiciel', 'on', 'porusza', 'góry']",zbawiciel on porusza góry
+48,2019-03-05, Być bliżej Ciebie chcę,"['być', 'bliżej', 'ciebie', 'chcę']",być bliżej ciebie chcę
+48,2019-03-05, Oczekuję Ciebie Panie ,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+48,2019-03-05," O Panie, Ty nam dajesz Ciało Swe i Krew","['o', 'panie', 'ty', 'nam', 'dajesz', 'ciało', 'swe', 'i', 'krew']",o panie ty nam dajesz ciało swe i krew
+48,2019-03-05," Pan wywyższony, nasz Król wywyższony","['pan', 'wywyższony', 'nasz', 'król', 'wywyższony']",pan wywyższony nasz król wywyższony
+48,2019-03-05," Memu Bogu, Królowi","['memu', 'bogu', 'królowi']",memu bogu królowi
+49,2019-03-07,Bądź mi litosciw,"['bądź', 'mi', 'litosciw']",bądź mi litosciw
+49,2019-03-07, Tak mnie skrusz,"['tak', 'mnie', 'skrusz']",tak mnie skrusz
+49,2019-03-07, Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+49,2019-03-07, Prawda Jedyna,"['prawda', 'jedyna']",prawda jedyna
+49,2019-03-07, Boże Twa Łaska ,"['boże', 'twa', 'łaska']",boże twa łaska
+50,2019-03-10, Jezu Chruste Panie miły,"['jezu', 'chruste', 'panie', 'miły']",jezu chruste panie miły
+50,2019-03-10, Niech oblicze Twe,"['niech', 'oblicze', 'twe']",niech oblicze twe
+50,2019-03-10, Wierzę w Ciebie Panie,"['wierzę', 'w', 'ciebie', 'panie']",wierzę w ciebie panie
+50,2019-03-10, Ukojenie,['ukojenie'],ukojenie
+50,2019-03-10, Rozpięty na ramionach,"['rozpięty', 'na', 'ramionach']",rozpięty na ramionach
+51,2019-03-11, O krwi najdroższa,"['o', 'krwi', 'najdroższa']",o krwi najdroższa
+51,2019-03-11, Łaską jesteśmy zbawieni,"['łaską', 'jesteśmy', 'zbawieni']",łaską jesteśmy zbawieni
+51,2019-03-11, Miłujcie się wzajemnie ,"['miłujcie', 'się', 'wzajemnie']",miłujcie się wzajemnie
+51,2019-03-11, Uwielbiam Twoje imię,"['uwielbiam', 'twoje', 'imię']",uwielbiam twoje imię
+51,2019-03-11, Matka która pod krzyżem stała ,"['matka', 'która', 'pod', 'krzyżem', 'stała']",matka która pod krzyżem stała
+52,2019-03-12, Miłosierdzie Boga Najwyższego,"['miłosierdzie', 'boga', 'najwyższego']",miłosierdzie boga najwyższego
+52,2019-03-12, Duchu miłości wylewaj się na nas,"['duchu', 'miłości', 'wylewaj', 'się', 'na', 'nas']",duchu miłości wylewaj się na nas
+52,2019-03-12, Chrystus Pan karmi nas,"['chrystus', 'pan', 'karmi', 'nas']",chrystus pan karmi nas
+52,2019-03-12, Błogosławcie Pana,"['błogosławcie', 'pana']",błogosławcie pana
+52,2019-03-12, Ty jesteś skałą zbawienia mego,"['ty', 'jesteś', 'skałą', 'zbawienia', 'mego']",ty jesteś skałą zbawienia mego
+53,2019-03-13," Jeśli masz (Matka, która pod krzyżem stała)","['jeśli', 'masz', 'matka', 'która', 'pod', 'krzyżem', 'stała']",jeśli masz matka która pod krzyżem stała
+53,2019-03-13, Tak mnie skrusz,"['tak', 'mnie', 'skrusz']",tak mnie skrusz
+53,2019-03-13, Wodę zamieniłeś w wino,"['wodę', 'zamieniłeś', 'w', 'wino']",wodę zamieniłeś w wino
+53,2019-03-13, Być bliżej Ciebie chcę,"['być', 'bliżej', 'ciebie', 'chcę']",być bliżej ciebie chcę
+53,2019-03-13,Ucisz burzę,"['ucisz', 'burzę']",ucisz burzę
+54,2019-03-14, Krzyżu Święty,"['krzyżu', 'święty']",krzyżu święty
+54,2019-03-14, Uwielbiam Twoje imię,"['uwielbiam', 'twoje', 'imię']",uwielbiam twoje imię
+54,2019-03-14, Błogosławcie Pana,"['błogosławcie', 'pana']",błogosławcie pana
+54,2019-03-14, Ucisz burzę ,"['ucisz', 'burzę']",ucisz burzę
+55,2019-03-18, Podnieś mnie Jezu,"['podnieś', 'mnie', 'jezu']",podnieś mnie jezu
+55,2019-03-18, kim jesteś Ty Panie,"['kim', 'jesteś', 'ty', 'panie']",kim jesteś ty panie
+55,2019-03-18, Krzyżu Chrystusa badze pochwalony,"['krzyżu', 'chrystusa', 'badze', 'pochwalony']",krzyżu chrystusa badze pochwalony
+55,2019-03-18, Chrystus Pan Boży Syn,"['chrystus', 'pan', 'boży', 'syn']",chrystus pan boży syn
+55,2019-03-18, Jakże pójdziemy za Tobą Chrystusie ,"['jakże', 'pójdziemy', 'za', 'tobą', 'chrystusie']",jakże pójdziemy za tobą chrystusie
+56,2019-03-19," Do mnie wróć, zbawie Cię","['do', 'mnie', 'wróć', 'zbawie', 'cię']",do mnie wróć zbawie cię
+56,2019-03-19, Misericordias Domini,"['misericordias', 'domini']",misericordias domini
+56,2019-03-19, Chlebie żywy,"['chlebie', 'żywy']",chlebie żywy
+56,2019-03-19, Prawda Jedyna ,"['prawda', 'jedyna']",prawda jedyna
+56,2019-03-19, Zaprowadz mnie tam,"['zaprowadz', 'mnie', 'tam']",zaprowadz mnie tam
+57,2019-03-22, Bliskie jest królestwo Boże ,"['bliskie', 'jest', 'królestwo', 'boże']",bliskie jest królestwo boże
+57,2019-03-22," O Jezu, cichy i pokorny ","['o', 'jezu', 'cichy', 'i', 'pokorny']",o jezu cichy i pokorny
+57,2019-03-22,Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+57,2019-03-22, Ty jesteś chlebem żywym  ,"['ty', 'jesteś', 'chlebem', 'żywym']",ty jesteś chlebem żywym
+57,2019-03-22, Wisi na krzyżu ,"['wisi', 'na', 'krzyżu']",wisi na krzyżu
+58,2019-03-21, Ogrodzie Oliwny,"['ogrodzie', 'oliwny']",ogrodzie oliwny
+58,2019-03-21,Ofiaruje Tobie Panie mój,"['ofiaruje', 'tobie', 'panie', 'mój']",ofiaruje tobie panie mój
+58,2019-03-21, Chlebie najcieńszy,"['chlebie', 'najcieńszy']",chlebie najcieńszy
+58,2019-03-21, Będę śpiewał Tobie nocy moja,"['będę', 'śpiewał', 'tobie', 'nocy', 'moja']",będę śpiewał tobie nocy moja
+58,2019-03-21, Jak ożywczy deszcz ,"['jak', 'ożywczy', 'deszcz']",jak ożywczy deszcz
+59,2019-03-24, Bliskie jest królestwo Boże,"['bliskie', 'jest', 'królestwo', 'boże']",bliskie jest królestwo boże
+59,2019-03-24, Tak mnie skrusz,"['tak', 'mnie', 'skrusz']",tak mnie skrusz
+59,2019-03-24, Skosztujcie i Zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+59,2019-03-24, Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+59,2019-03-24, Dzięki Ci Panie,"['dzięki', 'ci', 'panie']",dzięki ci panie
+59,2019-03-24, Ty jesteś skałą,"['ty', 'jesteś', 'skałą']",ty jesteś skałą
+59,2019-03-24, Oto Ja poślij mnie,"['oto', 'ja', 'poślij', 'mnie']",oto ja poślij mnie
+59,2019-03-24,Idź w pokoju,"['idź', 'w', 'pokoju']",idź w pokoju
+60,2019-03-25," Matka, która pod krzyżem stała","['matka', 'która', 'pod', 'krzyżem', 'stała']",matka która pod krzyżem stała
+60,2019-03-25, W Tobie jest światło,"['w', 'tobie', 'jest', 'światło']",w tobie jest światło
+60,2019-03-25, Ty jesteś chlebem żywym ,"['ty', 'jesteś', 'chlebem', 'żywym']",ty jesteś chlebem żywym
+60,2019-03-25, Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+60,2019-03-25, Wielbimy Cię,"['wielbimy', 'cię']",wielbimy cię
+60,2019-03-25, Krzyżu święty,"['krzyżu', 'święty']",krzyżu święty
+60,2019-03-25, Idź w pokoju,"['idź', 'w', 'pokoju']",idź w pokoju
+61,2019-03-26, Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+61,2019-03-26, Misericordias domini,"['misericordias', 'domini']",misericordias domini
+61,2019-03-26, Chrystus Pan karmi nas,"['chrystus', 'pan', 'karmi', 'nas']",chrystus pan karmi nas
+61,2019-03-26, Przyjacielu ,['przyjacielu'],przyjacielu
+61,2019-03-26, Dobranoc glowo święta,"['dobranoc', 'glowo', 'święta']",dobranoc glowo święta
+62,2019-03-28, Niechaj zstąpi duch Twój,"['niechaj', 'zstąpi', 'duch', 'twój']",niechaj zstąpi duch twój
+62,2019-03-28,Oto Bóg jest moim zbawieniem ,"['oto', 'bóg', 'jest', 'moim', 'zbawieniem']",oto bóg jest moim zbawieniem
+62,2019-03-28, Podnieś mnie Jezu,"['podnieś', 'mnie', 'jezu']",podnieś mnie jezu
+62,2019-03-28, Witaj pokarmie,"['witaj', 'pokarmie']",witaj pokarmie
+62,2019-03-28, Nasz Bóg jest potężny w mocy swej/ Przed tronem Twym,"['nasz', 'bóg', 'jest', 'potężny', 'w', 'mocy', 'swej', 'przed', 'tronem', 'twym']",nasz bóg jest potężny w mocy swej przed tronem twym
+62,2019-03-28, Jesteśmy piękni,"['jesteśmy', 'piękni']",jesteśmy piękni
+62,2019-03-28, Zaprowadź mnie tam ,"['zaprowadź', 'mnie', 'tam']",zaprowadź mnie tam
+63,2019-03-31, Krzyżu Chrystusa,"['krzyżu', 'chrystusa']",krzyżu chrystusa
+63,2019-03-31," Boże, mój Boże szukam Ciebie","['boże', 'mój', 'boże', 'szukam', 'ciebie']",boże mój boże szukam ciebie
+63,2019-03-31,Chlebie najcichszy ,"['chlebie', 'najcichszy']",chlebie najcichszy
+63,2019-03-31, Zbliżam się w pokorze,"['zbliżam', 'się', 'w', 'pokorze']",zbliżam się w pokorze
+63,2019-03-31, Jesteś miłością,"['jesteś', 'miłością']",jesteś miłością
+63,2019-03-31, Prawda Jedyna ,"['prawda', 'jedyna']",prawda jedyna
+64,2019-04-02, Wyprowadź mnie Panie na pustynię,"['wyprowadź', 'mnie', 'panie', 'na', 'pustynię']",wyprowadź mnie panie na pustynię
+64,2019-04-02, W Tobie jest światło,"['w', 'tobie', 'jest', 'światło']",w tobie jest światło
+64,2019-04-02,Kto spragniony jest,"['kto', 'spragniony', 'jest']",kto spragniony jest
+64,2019-04-02, Wierzę w Ciebie Panie ,"['wierzę', 'w', 'ciebie', 'panie']",wierzę w ciebie panie
+64,2019-04-02," Niepojęty, niezmierzony","['niepojęty', 'niezmierzony']",niepojęty niezmierzony
+64,2019-04-02," Nie bójcie się żyć dla miłości, dla tej miłości warto żyć","['nie', 'bójcie', 'się', 'żyć', 'dla', 'miłości', 'dla', 'tej', 'miłości', 'warto', 'żyć']",nie bójcie się żyć dla miłości dla tej miłości warto żyć
+65,2019-04-03, Gdy klęczę przed Tobą,"['gdy', 'klęczę', 'przed', 'tobą']",gdy klęczę przed tobą
+65,2019-04-03, Dotknij Panie moich oczu,"['dotknij', 'panie', 'moich', 'oczu']",dotknij panie moich oczu
+65,2019-04-03, Chlebie Najcichszy,"['chlebie', 'najcichszy']",chlebie najcichszy
+65,2019-04-03, W Tobie jest światło,"['w', 'tobie', 'jest', 'światło']",w tobie jest światło
+65,2019-04-03,Każdy spragniony,"['każdy', 'spragniony']",każdy spragniony
+66,2019-04-04, Ci którzy Jahwe ufają,"['ci', 'którzy', 'jahwe', 'ufają']",ci którzy jahwe ufają
+66,2019-04-04, Tak mnie skrusz tak mnie złam,"['tak', 'mnie', 'skrusz', 'tak', 'mnie', 'złam']",tak mnie skrusz tak mnie złam
+66,2019-04-04, Duszo Chrystusowa,"['duszo', 'chrystusowa']",duszo chrystusowa
+66,2019-04-04, Chwalę Ciebie Panie,"['chwalę', 'ciebie', 'panie']",chwalę ciebie panie
+66,2019-04-04, Duchu Święty przyjdź,"['duchu', 'święty', 'przyjdź']",duchu święty przyjdź
+67,2019-04-05, Kiedy masz chwile smutne,"['kiedy', 'masz', 'chwile', 'smutne']",kiedy masz chwile smutne
+67,2019-04-05, Jedyny Pan prawdziwy Bóg,"['jedyny', 'pan', 'prawdziwy', 'bóg']",jedyny pan prawdziwy bóg
+67,2019-04-05, Kiedyś wino i krew,"['kiedyś', 'wino', 'i', 'krew']",kiedyś wino i krew
+67,2019-04-05, Uwielbiam twoje imię,"['uwielbiam', 'twoje', 'imię']",uwielbiam twoje imię
+67,2019-04-05, Ludu mój ludu,"['ludu', 'mój', 'ludu']",ludu mój ludu
+68,2019-04-07, Przybądź Święty Niepojęty,"['przybądź', 'święty', 'niepojęty']",przybądź święty niepojęty
+68,2019-04-07, Podnieś mnie Jezu,"['podnieś', 'mnie', 'jezu']",podnieś mnie jezu
+68,2019-04-07, Chleb niebiański (hymn etiopski),"['chleb', 'niebiański', 'hymn', 'etiopski']",chleb niebiański hymn etiopski
+68,2019-04-07, Chrystus Pan Boży Syn,"['chrystus', 'pan', 'boży', 'syn']",chrystus pan boży syn
+68,2019-04-07, Nie użyczę snu moim oczom (modlitwa przed zaśnięciem),"['nie', 'użyczę', 'snu', 'moim', 'oczom', 'modlitwa', 'przed', 'zaśnięciem']",nie użyczę snu moim oczom modlitwa przed zaśnięciem
+69,2019-04-09, Do mnie wróć,"['do', 'mnie', 'wróć']",do mnie wróć
+69,2019-04-09, O Panie Ty nam dajesz,"['o', 'panie', 'ty', 'nam', 'dajesz']",o panie ty nam dajesz
+69,2019-04-09,Dobranoc glowo święta,"['dobranoc', 'glowo', 'święta']",dobranoc glowo święta
+69,2019-04-09,Ty jesteś skała zbawienia,"['ty', 'jesteś', 'skała', 'zbawienia']",ty jesteś skała zbawienia
+70,2019-04-11, Rozpięty na ramionach,"['rozpięty', 'na', 'ramionach']",rozpięty na ramionach
+70,2019-04-11, Oto Bóg jest moim zbawieniem ,"['oto', 'bóg', 'jest', 'moim', 'zbawieniem']",oto bóg jest moim zbawieniem
+70,2019-04-11, Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+70,2019-04-11, Niechaj Cię Panie,"['niechaj', 'cię', 'panie']",niechaj cię panie
+70,2019-04-11, Chwal Adonai/ Chwalcie Pana niebios,"['chwal', 'adonai', 'chwalcie', 'pana', 'niebios']",chwal adonai chwalcie pana niebios
+70,2019-04-11, Ucisz burzę/ Modlitwa przed snem,"['ucisz', 'burzę', 'modlitwa', 'przed', 'snem']",ucisz burzę modlitwa przed snem
+71,2019-04-14, Hosanna Synowi Dawida,"['hosanna', 'synowi', 'dawida']",hosanna synowi dawida
+71,2019-04-14,Palmy: Chrystus wodzem,"['palmy', 'chrystus', 'wodzem']",palmy chrystus wodzem
+71,2019-04-14, O Jezu cichy i pokorny,"['o', 'jezu', 'cichy', 'i', 'pokorny']",o jezu cichy i pokorny
+71,2019-04-14, Witaj pokarmie,"['witaj', 'pokarmie']",witaj pokarmie
+71,2019-04-14, Być bliżej ciebie chcę,"['być', 'bliżej', 'ciebie', 'chcę']",być bliżej ciebie chcę
+71,2019-04-14, Błogosławcie pana wszystkie jego dzieła,"['błogosławcie', 'pana', 'wszystkie', 'jego', 'dzieła']",błogosławcie pana wszystkie jego dzieła
+71,2019-04-14, Jaśnieje Krzyż,"['jaśnieje', 'krzyż']",jaśnieje krzyż
+71,2019-04-14, Jezu tyś jest światłością mej duszy,"['jezu', 'tyś', 'jest', 'światłością', 'mej', 'duszy']",jezu tyś jest światłością mej duszy
+72,2019-04-16, Zawitaj ukrzyżowany,"['zawitaj', 'ukrzyżowany']",zawitaj ukrzyżowany
+72,2019-04-16, Tak mnie skrusz,"['tak', 'mnie', 'skrusz']",tak mnie skrusz
+72,2019-04-16, Być bliżej Ciebie chce,"['być', 'bliżej', 'ciebie', 'chce']",być bliżej ciebie chce
+72,2019-04-16, Jezus daje nam zbawienie ,"['jezus', 'daje', 'nam', 'zbawienie']",jezus daje nam zbawienie
+72,2019-04-16, Nie użycze snu moim oczom,"['nie', 'użycze', 'snu', 'moim', 'oczom']",nie użycze snu moim oczom
+73,2019-04-23, Chrystus zmartwychwstan jest,"['chrystus', 'zmartwychwstan', 'jest']",chrystus zmartwychwstan jest
+73,2019-04-23, Oto są Baranki młode,"['oto', 'są', 'baranki', 'młode']",oto są baranki młode
+73,2019-04-23, Oto jest dzień,"['oto', 'jest', 'dzień']",oto jest dzień
+73,2019-04-23, Radośnie Panu hymn,"['radośnie', 'panu', 'hymn']",radośnie panu hymn
+73,2019-04-23, Zmartwychwstał Pan,"['zmartwychwstał', 'pan']",zmartwychwstał pan
+74,2019-04-25, Zmartwychwstał Pan,"['zmartwychwstał', 'pan']",zmartwychwstał pan
+74,2019-04-25, Sekwencja wielkanonca po psalmie ,"['sekwencja', 'wielkanonca', 'po', 'psalmie']",sekwencja wielkanonca po psalmie
+74,2019-04-25, Panie mój przychodzę dziś,"['panie', 'mój', 'przychodzę', 'dziś']",panie mój przychodzę dziś
+74,2019-04-25, Skosztujcie i zobaczcie,"['skosztujcie', 'i', 'zobaczcie']",skosztujcie i zobaczcie
+74,2019-04-25, Jezus Zwyciężył,"['jezus', 'zwyciężył']",jezus zwyciężył
+74,2019-04-25, Twoja miłośc,"['twoja', 'miłośc']",twoja miłośc
+75,2019-04-28, Oto jest dzień,"['oto', 'jest', 'dzień']",oto jest dzień
+75,2019-04-28, Niech oblicze Twe,"['niech', 'oblicze', 'twe']",niech oblicze twe
+75,2019-04-28, Przychodzisz Panie mimo drzwi zamkniętych,"['przychodzisz', 'panie', 'mimo', 'drzwi', 'zamkniętych']",przychodzisz panie mimo drzwi zamkniętych
+75,2019-04-28, Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+75,2019-04-28, Nasz Bóg jest wielki,"['nasz', 'bóg', 'jest', 'wielki']",nasz bóg jest wielki
+75,2019-04-28, Zmartwychwstał Pan,"['zmartwychwstał', 'pan']",zmartwychwstał pan
+76,2019-04-29, Otwórz me oczy o Panie,"['otwórz', 'me', 'oczy', 'o', 'panie']",otwórz me oczy o panie
+76,2019-04-29, Twoja miłość jak ciepły deszcz,"['twoja', 'miłość', 'jak', 'ciepły', 'deszcz']",twoja miłość jak ciepły deszcz
+76,2019-04-29, Oto są baranki młode,"['oto', 'są', 'baranki', 'młode']",oto są baranki młode
+76,2019-04-29, Alleluja (Niech zabrzmi Panu),"['alleluja', 'niech', 'zabrzmi', 'panu']",alleluja niech zabrzmi panu
+76,2019-04-29, Jezus zwyciężył to wykonało się,"['jezus', 'zwyciężył', 'to', 'wykonało', 'się']",jezus zwyciężył to wykonało się
+77,2019-04-30, Otwórz me oczy o Panie,"['otwórz', 'me', 'oczy', 'o', 'panie']",otwórz me oczy o panie
+77,2019-04-30, Ofiaruję Tobie Panie mój,"['ofiaruję', 'tobie', 'panie', 'mój']",ofiaruję tobie panie mój
+77,2019-04-30, Chlebie najcichszy ,"['chlebie', 'najcichszy']",chlebie najcichszy
+77,2019-04-30, Boże twa łaska nad nami jest,"['boże', 'twa', 'łaska', 'nad', 'nami', 'jest']",boże twa łaska nad nami jest
+77,2019-04-30, Oto są baranki młode,"['oto', 'są', 'baranki', 'młode']",oto są baranki młode
+78,2019-05-05, Wzywam Cię,"['wzywam', 'cię']",wzywam cię
+78,2019-05-05, Oto stoję u drzwi,"['oto', 'stoję', 'u', 'drzwi']",oto stoję u drzwi
+78,2019-05-05, Chlebie najcichszy,"['chlebie', 'najcichszy']",chlebie najcichszy
+78,2019-05-05, Niechaj Cię Panie,"['niechaj', 'cię', 'panie']",niechaj cię panie
+78,2019-05-05, Zaprowadź mnie tam,"['zaprowadź', 'mnie', 'tam']",zaprowadź mnie tam
+79,2019-05-06,Wesel się Królowo miła,"['wesel', 'się', 'królowo', 'miła']",wesel się królowo miła
+79,2019-05-06, Dzielmy się wiarą jak chlebem,"['dzielmy', 'się', 'wiarą', 'jak', 'chlebem']",dzielmy się wiarą jak chlebem
+79,2019-05-06, Oto ja poślij mnie,"['oto', 'ja', 'poślij', 'mnie']",oto ja poślij mnie
+79,2019-05-06, Zmartwychwstał Pan,"['zmartwychwstał', 'pan']",zmartwychwstał pan
+79,2019-05-06, Pozwól mi przyjść do Ciebie ,"['pozwól', 'mi', 'przyjść', 'do', 'ciebie']",pozwól mi przyjść do ciebie
+80,2019-05-07, Gwiazdo śliczna wspaniala,"['gwiazdo', 'śliczna', 'wspaniala']",gwiazdo śliczna wspaniala
+80,2019-05-07, Dotknij Panie moich oczu,"['dotknij', 'panie', 'moich', 'oczu']",dotknij panie moich oczu
+80,2019-05-07, Chrystus Pan karmi nas ,"['chrystus', 'pan', 'karmi', 'nas']",chrystus pan karmi nas
+80,2019-05-07, Tobie chór aniołów,"['tobie', 'chór', 'aniołów']",tobie chór aniołów
+80,2019-05-07, Z dawna Polski Tys Królowa,"['z', 'dawna', 'polski', 'tys', 'królowa']",z dawna polski tys królowa
+81,2019-05-09," Duchu Święty wołam, przyjdź","['duchu', 'święty', 'wołam', 'przyjdź']",duchu święty wołam przyjdź
+81,2019-05-09, Ty jesteś chlebem żywym ,"['ty', 'jesteś', 'chlebem', 'żywym']",ty jesteś chlebem żywym
+81,2019-05-09, Hymn Etiopski (Chleb niebiański),"['hymn', 'etiopski', 'chleb', 'niebiański']",hymn etiopski chleb niebiański
+81,2019-05-09, Błogosław duszo moja Pana,"['błogosław', 'duszo', 'moja', 'pana']",błogosław duszo moja pana
+81,2019-05-09, Memu Bogu Królowi,"['memu', 'bogu', 'królowi']",memu bogu królowi
+81,2019-05-09, Idź w pokoju ,"['idź', 'w', 'pokoju']",idź w pokoju
+82,2019-05-12, Pan jest moim pasterzem,"['pan', 'jest', 'moim', 'pasterzem']",pan jest moim pasterzem
+82,2019-05-12, każdy spragniony ,"['każdy', 'spragniony']",każdy spragniony
+82,2019-05-12, Pasterzem moim jest pan,"['pasterzem', 'moim', 'jest', 'pan']",pasterzem moim jest pan
+82,2019-05-12, chleb niebieski,"['chleb', 'niebieski']",chleb niebieski
+82,2019-05-12,Wykrzykujcie na cześć Pana,"['wykrzykujcie', 'na', 'cześć', 'pana']",wykrzykujcie na cześć pana
+82,2019-05-12, Maryjo wołamy Ciebie,"['maryjo', 'wołamy', 'ciebie']",maryjo wołamy ciebie
+82,2019-05-12, Nie użyczę snu,"['nie', 'użyczę', 'snu']",nie użyczę snu
+83,2019-05-14, Zawitaj Królowo,"['zawitaj', 'królowo']",zawitaj królowo
+83,2019-05-14, Oczekuje Ciebie Panie,"['oczekuje', 'ciebie', 'panie']",oczekuje ciebie panie
+83,2019-05-14, Panie dobry jak chleb,"['panie', 'dobry', 'jak', 'chleb']",panie dobry jak chleb
+83,2019-05-14, Nie ma za trudnych spraw,"['nie', 'ma', 'za', 'trudnych', 'spraw']",nie ma za trudnych spraw
+83,2019-05-14, Maryjo wołaj we mnie,"['maryjo', 'wołaj', 'we', 'mnie']",maryjo wołaj we mnie
+84,2019-05-19, Pokorna służebnico Pana,"['pokorna', 'służebnico', 'pana']",pokorna służebnico pana
+84,2019-05-19, Jesteś królem,"['jesteś', 'królem']",jesteś królem
+84,2019-05-19,Witaj pokarmie,"['witaj', 'pokarmie']",witaj pokarmie
+84,2019-05-19, Oto są baranki,"['oto', 'są', 'baranki']",oto są baranki
+84,2019-05-19, Niechaj Cię Panie,"['niechaj', 'cię', 'panie']",niechaj cię panie
+84,2019-05-19,Stoję dziś,"['stoję', 'dziś']",stoję dziś
+84,2019-05-19, Każdy dzień upewnia mnie,"['każdy', 'dzień', 'upewnia', 'mnie']",każdy dzień upewnia mnie
+85,2019-05-16, Cała Ziemio wołaj,"['cała', 'ziemio', 'wołaj']",cała ziemio wołaj
+85,2019-05-16, Niechaj Cię Panie,"['niechaj', 'cię', 'panie']",niechaj cię panie
+85,2019-05-16, Chleb niebiański,"['chleb', 'niebiański']",chleb niebiański
+85,2019-05-16, Zbawca,['zbawca'],zbawca
+85,2019-05-16, Bóg nasz Pan,"['bóg', 'nasz', 'pan']",bóg nasz pan
+85,2019-05-16, Idź w pokoju,"['idź', 'w', 'pokoju']",idź w pokoju
+86,2019-05-20, Maryjo Matko mojego wezwania,"['maryjo', 'matko', 'mojego', 'wezwania']",maryjo matko mojego wezwania
+86,2019-05-20, Oczekuję Ciebie Panie,"['oczekuję', 'ciebie', 'panie']",oczekuję ciebie panie
+86,2019-05-20, Stoisz u naszych drzwi,"['stoisz', 'u', 'naszych', 'drzwi']",stoisz u naszych drzwi
+86,2019-05-20, Oddajmy cześć,"['oddajmy', 'cześć']",oddajmy cześć
+86,2019-05-20, Błogosławione jest imię Twe,"['błogosławione', 'jest', 'imię', 'twe']",błogosławione jest imię twe
+87,2019-05-21, Pozdrawiam cię matko syna Bożego,"['pozdrawiam', 'cię', 'matko', 'syna', 'bożego']",pozdrawiam cię matko syna bożego
+87,2019-05-21, Pokój wam,"['pokój', 'wam']",pokój wam
+87,2019-05-21, Com przyrzekł Bogu,"['com', 'przyrzekł', 'bogu']",com przyrzekł bogu
+87,2019-05-21, Niechaj cię Panie,"['niechaj', 'cię', 'panie']",niechaj cię panie
+87,2019-05-21, Warto dla jednej miłości żyć,"['warto', 'dla', 'jednej', 'miłości', 'żyć']",warto dla jednej miłości żyć
