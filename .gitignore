@@ -2,9 +2,8 @@
 
 
 .ipynb_checkpoints/
-
-*.xlsx
+charts/
 *.pdf
-PiosenKator/
+Find Movie Similarity from Plot Summaries/
 *.txt
 *.zip
