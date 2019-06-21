@@ -1,4 +1,10 @@
 # Don't track:
+
+
 .ipynb_checkpoints/
+
 *.xlsx
 *.pdf
+
+*.txt
+*.zip
