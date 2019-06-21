@@ -3,7 +3,6 @@
 
 .ipynb_checkpoints/
 charts/
-*.pdf
 Find Movie Similarity from Plot Summaries/
 *.txt
 *.zip
