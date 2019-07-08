@@ -38,9 +38,9 @@ def process(data):
 
 
 def main():
-    in_file = 'PiosenKator\czytania_do_lem\\czytanie.zip'
+    in_file = 'czytania_do_lem\\czytanie.zip'
     #'czytania.zip'
-    out_file= 'Piosenkator\czytania_z_lem\out.zip'
+    out_file= 'czytania_z_lem\out.zip'
     global_time = time.time()
     fileid=upload(in_file)
     lpmn='filezip('+fileid+')|'+task+'|dir|makezip'

@@ -36,19 +36,19 @@ class Reading(object):
         
     def prepare_for_lem(self):
         df = self.get_readable()       
-        df[['Tekst']].to_csv('PiosenKator\\czytania_do_lem\\'+str(self.today)+'.txt', 
+        df[['Tekst']].to_csv('czytania_do_lem\\'+str(self.today)+'.txt', 
                              header=False, 
                              index=False)
-        zf = zipfile.ZipFile('PiosenKator\\czytania_do_lem\\czytanie.zip', mode='w')
-        zf.write('PiosenKator\\czytania_do_lem\\' + str(self.today) + '.txt')
+        zf = zipfile.ZipFile('czytania_do_lem\\czytanie.zip', mode='w')
+        zf.write('czytania_do_lem\\' + str(self.today) + '.txt')
         zf.close()
 
     def extract(self):
-        with zipfile.ZipFile('Piosenkator\czytania_z_lem\out.zip', 'r') as zipObj:
-            zipObj.extractall('PiosenKator\czytania_z_lem')
+        with zipfile.ZipFile('czytania_z_lem\out.zip', 'r') as zipObj:
+            zipObj.extractall('czytania_z_lem')
 
     def get_txt(self):
-        root = ET.parse('Piosenkator\czytania_z_lem\PiosenKator%czytania_do_lem%'
+        root = ET.parse('czytania_z_lem\czytania_do_lem%'
                         +str(self.today)+'.txt').getroot()
         r = root.findall('chunk/sentence/tok/lex/base')
         txt = ' '.join([child.text for child in r])
@@ -57,7 +57,7 @@ class Reading(object):
     def cleaned_and_tokenized(self):
         x = self.get_txt()
         r = list(tokenize(x, to_lower=True))
-        polish_stops = codecs.open("polishStopWords",'r','utf-8')
+        polish_stops = codecs.open("../polishStopWords",'r','utf-8')
         stopwords = polish_stops.read().split('\n')
         polish_stops.close()
         no_stops = [t for t in r if t not in stopwords]
