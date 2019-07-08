@@ -8,6 +8,9 @@ Metoda i narzędzie do wydobywania znaczenia z zadanego tekstu i wyszukiwania te
 ### General purpose
 Experiments for building the PiosenKatoR tool for matching chrisitan songs with daily bible readings.
 
+### Usage
+To get matching with todays bible reading run piosenkator_app.py
+
 ### Technologies
 Jupyter Notebooks, Python 3.6.8
 
