@@ -6,3 +6,4 @@ charts/
 Find Movie Similarity from Plot Summaries/
 *.txt
 *.zip
+__pycache__/

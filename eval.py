@@ -65,7 +65,7 @@ def evaluate(songs_representation, readings_representation):
                           index=piosenki.index, 
                           columns = czytania.index)
 
-    test = pd.read_csv('ewaluacja.csv',
+    test = pd.read_csv('../CSV/ewaluacja.csv',
                        header=0, 
                        index_col=0)
 
@@ -96,7 +96,7 @@ def statistics():
     pr = []
     perd = []
     for i in range(len(songs_repr_list)):
-        s, c, r, d  = evaluate(songs_repr_list[i], readings_repr_list[i])
+        s, c, r, d  = evaluate('../CSV/'+songs_repr_list[i], '../CSV/'+readings_repr_list[i])
         suma.append(s)
         pc.append(c)
         pr.append(r)
